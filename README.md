@@ -1,4 +1,4 @@
 # imbalanced-image-analysis-ai
 
-Yapay Zeka 
+Yapay Zeka Teknikleri
 
