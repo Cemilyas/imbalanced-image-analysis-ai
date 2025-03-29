@@ -22,4 +22,4 @@ Yapay Zeka Teknikleri ile Görüntü Veri Setleri Üzerinde Analiz İşlemleri: 
 
 *For Correspondence: alcetinkaya@gelisim.edu.tr*
 
-##  Bu çalışma, 
+##  Bu çalışma, İstanbul 
