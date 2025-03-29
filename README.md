@@ -1,4 +1,3 @@
 # imbalanced-image-analysis-ai
 
-Yapay Zeka Teknikleri
-
+Yapay Zeka Teknikleri ile Görüntü
