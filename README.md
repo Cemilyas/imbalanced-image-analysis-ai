@@ -35,5 +35,6 @@ Kongre Tarih Aralığı ve Konumu: 08-09 Mart 2025 ve İstanbul
 
 Öz:
 
-Yapay Zeka (YZ) teknikleri, görüntü işleme uygulamaları ile bütünleştiğinde, günümüzde birçok alanda kullanılmaktadır. 
+Yapay Zeka (YZ) teknikleri, görüntü işleme uygulamaları ile bütünleştiğinde, günümüzde birçok alanda kullanılmaktadır. YZ algoritmaları 
+
 
