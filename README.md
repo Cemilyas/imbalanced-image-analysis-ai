@@ -21,3 +21,5 @@ Yapay Zeka Teknikleri ile Görüntü Veri Setleri Üzerinde Analiz İşlemleri: 
   [Orcid ID: 0000-0003-4535-3953](https://orcid.org/0000-0003-4535-3953)
 
 *For Correspondence: alcetinkaya@gelisim.edu.tr*
+
+##  Bu çalışma, 
