@@ -13,8 +13,8 @@ Yapay Zeka Teknikleri ile Görüntü Veri Setleri Üzerinde Analiz İşlemleri: 
   [Orcid ID: 0009-0000-6354-3860](https://orcid.org/0009-0000-6354-3860)
 
 - **Aslı Türk**    
-  İstanbul Gelişim Üniversitesi, İstanbul Gelişim Meslek Yüksekokulu, Bilgisayar Teknolojisi Programı, İstanbul / Türkiye
-  [Orcid ID: 0009-0000-6354-3860](https://orcid.org/0009-0002-6528-6428)
+  İstanbul Gelişim Üniversitesi, İstanbul Gelişim Meslek Yüksekokulu, Bilgisayar Teknolojisi Programı, İstanbul / Türkiye    
+  [Orcid ID: 0009-0002-6528-6428](https://orcid.org/0009-0002-6528-6428)
 
 - **Ali Çetinkaya**    
   İstanbul Gelişim Üniversitesi, İstanbul Gelişim Meslek Yüksekokulu, Elektronik Teknolojisi Programı, İstanbul / Türkiye 
