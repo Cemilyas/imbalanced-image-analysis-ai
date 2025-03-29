@@ -4,3 +4,4 @@ Yapay Zeka Teknikleri ile Görüntü Veri Setleri Üzerinde Analiz İşlemleri: 
 
 ## Authors  
 
+- **Cemil
