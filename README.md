@@ -11,5 +11,5 @@ Yapay Zeka Teknikleri ile Görüntü Veri Setleri Üzerinde Analiz İşlemleri: 
   İstanbul Gelişim Üniversitesi, İstanbul Gelişim Meslek Yüksekokulu, Bilgisayar Teknolojisi Programı, İstanbul / Türkiye 
 
 - **Aslı Türk**    
-  İstanbul Gelişim Üniversitesi, İstanbul Gelişim Meslek Yüksekokulu, Bilgisayar Teknolojisi Programı, 
+  İstanbul Gelişim Üniversitesi, İstanbul Gelişim Meslek Yüksekokulu, Bilgisayar Teknolojisi Programı,İstanbul / Türkiye  
 
