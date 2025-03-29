@@ -20,3 +20,4 @@ Yapay Zeka Teknikleri ile Görüntü Veri Setleri Üzerinde Analiz İşlemleri: 
   İstanbul Gelişim Üniversitesi, İstanbul Gelişim Meslek Yüksekokulu, Elektronik Teknolojisi Programı, İstanbul / Türkiye     
   [Orcid ID: 0000-0003-4535-3953](https://orcid.org/0000-0003-4535-3953)
 
+*For 
