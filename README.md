@@ -13,4 +13,5 @@ Yapay Zeka Teknikleri ile Görüntü Veri Setleri Üzerinde Analiz İşlemleri: 
 - **Aslı Türk**    
   İstanbul Gelişim Üniversitesi, İstanbul Gelişim Meslek Yüksekokulu, Bilgisayar Teknolojisi Programı, İstanbul / Türkiye  
 
-- **Ali 
+- **Ali Çetinkaya**    
+
