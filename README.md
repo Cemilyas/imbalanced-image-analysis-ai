@@ -36,5 +36,5 @@ Kongre Tarih Aralığı ve Konumu: 08-09 Mart 2025 ve İstanbul
 Öz:
 
 Yapay Zeka (YZ) teknikleri, görüntü işleme uygulamaları ile bütünleştiğinde, günümüzde birçok alanda kullanılmaktadır. YZ algoritmaları ile bütünleşen görüntü işleme sistemleri, çeşitli nesneleri, yüzleri ve belirli desenleri yüksek doğruluk oranlarıyla tespit edebilmekte ve analiz edebilmektedir. Bu sistemler, derin öğrenme tabanlı evrişimsel sinir ağları (CNN), transfer öğrenme yöntemleri ve çeşitli optimizasyon teknikleri ile sürekli geliştirilmektedir. Görüntü işleme sürecinde, 
-veri setlerindeki örüntüleri belirlemek, kenar tespiti yapmak, nesne segmentasyonu uygulamak ve sınıflandırma modelleri geliştirmek için çeşitli 
+veri setlerindeki örüntüleri belirlemek, kenar tespiti yapmak, nesne segmentasyonu uygulamak ve sınıflandırma modelleri geliştirmek için çeşitli algoritmalar entegre edilmektedir.
 
