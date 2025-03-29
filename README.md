@@ -28,4 +28,4 @@ Yapay Zeka Teknikleri ile Görüntü Veri Setleri Üzerinde Analiz İşlemleri: 
 
 Kongre İsmi: 6. ULUSLARARASI MÜHENDİSLİK ve FEN BİLİMLERİ KONGRESİ
 
-Kongre Tarih Aralığı ve Konumu: 
+Kongre Tarih Aralığı ve Konumu: 08-09 
