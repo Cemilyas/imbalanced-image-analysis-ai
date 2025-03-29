@@ -1,2 +1,4 @@
 # imbalanced-image-analysis-ai
-YAPAY ZEKA TEKNİKLERİ İLE GÖRÜNTÜ VERİ SETLERİ ÜZERİNDE ANALİZ İŞLEMLERİ: DENGESİZ VERİ PROBLEMLERİNİN ANLAŞILMASI VE ÇÖZÜM ÖNERİLERİ
+
+Yapay Zeka 
+
