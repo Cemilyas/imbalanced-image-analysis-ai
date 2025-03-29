@@ -24,5 +24,5 @@ Yapay Zeka Teknikleri ile Görüntü Veri Setleri Üzerinde Analiz İşlemleri: 
 
 ##  Bu çalışma, İstanbul Gelişim Üniversitesi, İstanbul Gelişim Meslek Yüksekokulu Bilgisayar Teknolojisi Programı'nda 2024-2025 Güz döneminde yürütülen BLP262 Yapay Zeka dersinde gerçekleştirilen çalışmalarının sonuçlarına dayanmaktadır. ORCID Kimlikleri: 0009-0009-0537-1146, 0009-0000-6354-3860, 0009-0002-6528-6428, 0000-0003-4535-3953
 
-** Kongre 
+** Kongre Bilgileri
 
