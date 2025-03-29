@@ -35,6 +35,5 @@ Kongre Tarih Aralığı ve Konumu: 08-09 Mart 2025 ve İstanbul
 
 Öz:
 
-Yapay Zeka (YZ) teknikleri, 
-
+Yapay Zeka (YZ) teknikleri, görüntü 
 
