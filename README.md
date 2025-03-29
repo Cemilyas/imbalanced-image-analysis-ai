@@ -22,5 +22,5 @@ Yapay Zeka Teknikleri ile Görüntü Veri Setleri Üzerinde Analiz İşlemleri: 
 
 *For Correspondence: alcetinkaya@gelisim.edu.tr*
 
-##  Bu çalışma, İstanbul Gelişim Üniversitesi, İstanbul Gelişim Meslek Yüksekokulu Bilgisayar Teknolojisi Programı'nda 2024-2025 
+##  Bu çalışma, İstanbul Gelişim Üniversitesi, İstanbul Gelişim Meslek Yüksekokulu Bilgisayar Teknolojisi Programı'nda 2024-2025 Güz 
 
