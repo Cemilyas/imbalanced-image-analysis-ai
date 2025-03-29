@@ -26,4 +26,5 @@ Yapay Zeka Teknikleri ile Görüntü Veri Setleri Üzerinde Analiz İşlemleri: 
 
 ** Kongre Bilgileri
 
-Kongre 
+Kongre İsmi: 6. ULUSLARARASI 
+
