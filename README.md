@@ -41,5 +41,5 @@ veri setlerindeki örüntüleri belirlemek, kenar tespiti yapmak, nesne segmenta
 
 Atıf Bilgisi:
 
-IEEE: C. İlyas Et Al. , "YAPAY ZEKA 
+IEEE: C. İlyas Et Al. , "YAPAY ZEKA TEKNİKLERİ İLE 
 
