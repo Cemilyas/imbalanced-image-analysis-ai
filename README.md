@@ -41,5 +41,5 @@ veri setlerindeki örüntüleri belirlemek, kenar tespiti yapmak, nesne segmenta
 
 Atıf Bilgisi:
 
-IEEE: C. 
+IEEE: C. İlyas Et Al.
 
