@@ -31,7 +31,7 @@ Kongre İsmi: 6. ULUSLARARASI MÜHENDİSLİK ve FEN BİLİMLERİ KONGRESİ
 Kongre Tarih Aralığı ve Konumu: 08-09 Mart 2025 ve İstanbul
 
 [Kongre İnternet Sayfası](https://www.engineeringandsciencescongress.org/)
-
+Üniversite Sayfası
 
 Öz:
 
