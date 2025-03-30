@@ -41,5 +41,5 @@ veri setlerindeki örüntüleri belirlemek, kenar tespiti yapmak, nesne segmenta
 
 Atıf Bilgisi:
 
-IEEE: C. İlyas Et Al. , "YAPAY ZEKA TEKNİKLERİ İLE GÖRÜNTÜ VERİ SETLERİ ÜZERİNDE ANALİZ İŞLEMLERİ: DENGESİZ VERİ PROBLEMLERİNİN ANLAŞILMASI VE ÇÖZÜM ÖNERİLERİ," 6. ULUSLARARASI 
+IEEE: C. İlyas Et Al. , "YAPAY ZEKA TEKNİKLERİ İLE GÖRÜNTÜ VERİ SETLERİ ÜZERİNDE ANALİZ İŞLEMLERİ: DENGESİZ VERİ PROBLEMLERİNİN ANLAŞILMASI VE ÇÖZÜM ÖNERİLERİ," 6. ULUSLARARASI MÜHENDİSLİK VE 
 
