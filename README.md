@@ -31,7 +31,7 @@ Kongre İsmi: 6. ULUSLARARASI MÜHENDİSLİK ve FEN BİLİMLERİ KONGRESİ
 Kongre Tarih Aralığı ve Konumu: 08-09 Mart 2025 ve İstanbul
 
 [Kongre İnternet Sayfası](https://www.engineeringandsciencescongress.org/)
-Üniversite Sayfası
+[Üniversite Sayfası](https://avesis.gelisim.edu.tr/yayin/2ad4364a-92aa-4049-b161-e79d14b06a34/yapay-zeka-teknikleri-ile-goruntu-veri-setleri-uzerinde-analiz-islemleri-dengesiz-veri-problemlerinin-anlasilmasi-ve-cozum-onerileri)
 
 Öz:
 
