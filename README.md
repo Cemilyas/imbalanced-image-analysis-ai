@@ -50,3 +50,6 @@ IEEE: C. İlyas Et Al. , "YAPAY ZEKA TEKNİKLERİ İLE GÖRÜNTÜ VERİ SETLERİ
 
 ---
 
+Kongre Sertifikası
+
+[!AlternatifMetin](https://github.com/acetinkaya/imbalanced-image-analysis-ai)
