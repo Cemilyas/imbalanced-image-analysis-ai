@@ -48,7 +48,7 @@ Atıf Bilgisi:
 
 IEEE: C. İlyas Et Al. , "YAPAY ZEKA TEKNİKLERİ İLE GÖRÜNTÜ VERİ SETLERİ ÜZERİNDE ANALİZ İŞLEMLERİ: DENGESİZ VERİ PROBLEMLERİNİN ANLAŞILMASI VE ÇÖZÜM ÖNERİLERİ," 6. ULUSLARARASI MÜHENDİSLİK VE FEN BİLİMLERİ KONGRESİ , vol.1, no.1, İstanbul, Turkey, pp.94-103, 2025
 
-APA: İlyas, C., Köse, B., Türk, A., & Çetinkaya, A., 
+APA: İlyas, C., Köse, B., Türk, A., & Çetinkaya, A., (2025). YAPAY ZEKA TEKNİKLERİ İLE GÖRÜNTÜ VERİ SETLERİ ÜZERİNDE ANALİZ İŞLEMLERİ: DENGESİZ VERİ PROBLEMLERİNİN ANLAŞILMASI VE ÇÖZÜM ÖNERİLERİ. 
 
 ---
 
