@@ -39,7 +39,7 @@ Yapay Zeka (YZ) teknikleri, görüntü işleme uygulamaları ile bütünleştiğ
 veri setlerindeki örüntüleri belirlemek, kenar tespiti yapmak, nesne segmentasyonu uygulamak ve sınıflandırma modelleri geliştirmek için çeşitli algoritmalar entegre edilmektedir.
 
 Bu çalışmada, YZ ve veri bilimi teknikleri kullanılarak görüntü veri setleri üzerinde analiz işlemleri gerçekleştirilmiş ve dengesiz veri problemlerine yönelik çözüm önerileri araştırılmıştır. Görüntü işleme sürecinde, veri setlerindeki örüntüleri belirlemek, kenar tespiti yapmak, nesne segmentasyonu uygulamak ve sınıflandırma modelleri geliştirmek için çeşitli algoritmalar entegre edilmektedir. OpenCV'ye odaklandığımız çalışmamızda, yüz tanıma ve görüntü işleme alanında yaygın olarak kullanılan açık kaynaklı bir kütüphanedir. Yüz algılama ve tanıma süreçlerinde OpenCV’nin sunduğu Haar-Cascade, LBP (Local Binary Pattern) ve DNN (Deep Neural Networks) tabanlı yöntemler araştırılmıştır. Haar-Cascade yöntemi, belirli özellikleri kullanarak yüz bölgelerini tespit eden hızlı ancak nispeten eski bir tekniktir. Daha güncel ve daha yüksek doğruluk oranına sahip olan DNN tabanlı yüz tanıma modelleri, OpenCV’nin dahili modülleri ile kullanılabilmektedir. 
-Özellikle yüz tanımada ileri tanımlama işlemleri için yüz tanıma sistemlerinde kullanılan ArcFace ve benzeri 
+Özellikle yüz tanımada ileri tanımlama işlemleri için yüz tanıma sistemlerinde kullanılan ArcFace ve benzeri derin öğrenme modelleri,
 
 
 ---
