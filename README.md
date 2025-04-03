@@ -57,7 +57,7 @@ IEEE: C. İlyas Et Al. , "YAPAY ZEKA TEKNİKLERİ İLE GÖRÜNTÜ VERİ SETLERİ
 APA: İlyas, C., Köse, B., Türk, A., & Çetinkaya, A., (2025). YAPAY ZEKA TEKNİKLERİ İLE GÖRÜNTÜ VERİ SETLERİ ÜZERİNDE ANALİZ İŞLEMLERİ: DENGESİZ VERİ PROBLEMLERİNİN ANLAŞILMASI VE ÇÖZÜM ÖNERİLERİ. 
 6. ULUSLARARASI MÜHENDİSLİK VE FEN BİLİMLERİ KONGRESİ (pp.94-103). İstanbul, Turkey
 
-MLA: İlyas, Cemil Et Al.
+MLA: İlyas, Cemil Et Al. "YAPAY ZEKA T
 
 
 ---
