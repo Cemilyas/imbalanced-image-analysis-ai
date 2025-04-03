@@ -31,8 +31,6 @@ Kongre Tarih Aralığı ve Konumu: 08-09 Mart 2025, İstanbul
 
 ![alternatif metin](https://github.com/acetinkaya/imbalanced-image-analysis-ai/blob/main/kongre1.png)   
 
-
-  
 [Kongre İnternet Sayfası](https://www.engineeringandsciencescongress.org/)      
 [Üniversite Sayfası](https://avesis.gelisim.edu.tr/yayin/2ad4364a-92aa-4049-b161-e79d14b06a34/yapay-zeka-teknikleri-ile-goruntu-veri-setleri-uzerinde-analiz-islemleri-dengesiz-veri-problemlerinin-anlasilmasi-ve-cozum-onerileri)     
 [ResearchGate](https://www.researchgate.net/publication/390312319_YAPAY_ZEKA_TEKNIKLERI_ILE_GORUNTU_VERI_SETLERI_UZERINDE_ANALIZ_ISLEMLERI_DENGESIZ_VERI_PROBLEMLERININ_ANLASILMASI_VE_COZUM_ONERILERI)
@@ -52,6 +50,10 @@ Araştırmamızda, görüntü veri setleri üzerindeki analizlerde derin öğren
 ---
 
 Anahtar Kelimeler: Görüntü İşleme, Düzensiz Veri Seti, Veri Analizi, Yapay Zeka, Python
+
+---
+
+
 
 ---
 
