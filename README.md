@@ -46,7 +46,7 @@ Araştırmamızda, görüntü veri setleri üzerindeki analizlerde derin öğren
 
 ---
 
-Anahtar Kelimeler: Görüntü İşleme, Düzensiz Veri Seti, 
+Anahtar Kelimeler: Görüntü İşleme, Düzensiz Veri Seti, Veri Analizi, 
 
 ---
 
