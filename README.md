@@ -72,3 +72,8 @@ Kongre Sertifikası
 ![alternatif metin](https://github.com/acetinkaya/imbalanced-image-analysis-ai/blob/main/kongre_sertifikasi.jpg)
 
 ---
+
+![alternatif metin](https://github.com/acetinkaya/imbalanced-image-analysis-ai/blob/main/kongre1.png)   
+
+
+https://github.com/acetinkaya/imbalanced-image-analysis-ai/blob/main/kongre1_2.png
