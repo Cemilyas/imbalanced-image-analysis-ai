@@ -53,7 +53,7 @@ Anahtar Kelimeler: Görüntü İşleme, Düzensiz Veri Seti, Veri Analizi, Yapay
 
 ---
 
-
+![alternatif metin](https://github.com/acetinkaya/imbalanced-image-analysis-ai/blob/main/kongre6.png)
 
 ---
 
