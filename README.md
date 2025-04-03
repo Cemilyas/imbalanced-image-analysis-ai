@@ -58,7 +58,7 @@ APA: İlyas, C., Köse, B., Türk, A., & Çetinkaya, A., (2025). YAPAY ZEKA TEKN
 6. ULUSLARARASI MÜHENDİSLİK VE FEN BİLİMLERİ KONGRESİ (pp.94-103). İstanbul, Turkey
 
 MLA: İlyas, Cemil Et Al. "YAPAY ZEKA TEKNİKLERİ İLE GÖRÜNTÜ VERİ SETLERİ ÜZERİNDE ANALİZ İŞLEMLERİ: DENGESİZ VERİ PROBLEMLERİNİN ANLAŞILMASI VE ÇÖZÜM ÖNERİLERİ." 6. ULUSLARARASI MÜHENDİSLİK VE FEN BİLİMLERİ KONGRESİ, İstanbul, Turkey, pp.94-
-
+103, 2025
 
 ---
 
