@@ -44,6 +44,8 @@ Bu çalışmada, YZ ve veri bilimi teknikleri kullanılarak görüntü veri setl
 
 Araştırmamızda, görüntü veri setleri üzerindeki analizlerde derin öğrenme algoritmaları ve yüz tanıma sistemlerinde yaygın olarak kullanılan ArcFace modeli gibi tekniklerden yararlanılmıştır. Dengesiz veri setleri, makine öğrenimi ve YZ modellerinin başarısını doğrudan etkileyen kritik bir faktördür. Sonuç olarak, YZ destekli görüntü işleme sistemleri, sağlık, güvenlik, ulaşım ve spor gibi birçok alanda uygulanarak insan hayatını kolaylaştıran çözümler sunmaktadır. Bu çalışmada, dengesiz veri setleriyle yapılan yüz tanıma sistemlerinin daha doğru çalışması ve ilgili modellerin daha verimli hale getirilmesi amaçlanmıştır. Elde edilen veriler karşılaştırmalı olarak sunulmuştur.
 
+
+---
 ---
 
 Atıf Bilgisi:
